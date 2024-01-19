@@ -16,8 +16,6 @@ namespace ASCII_Client
         TcpClient tcpClient;
         String filePath;
 
-
-
         public MainWindow()
         {
             InitializeComponent();
